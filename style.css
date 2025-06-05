@@ -89,7 +89,7 @@ form {
 input {
   align-self: center;
   display: inline-block;
-  width: 40%;
+  width: 27%;
   margin: 10px;
   border: none;
   background-color: #f1f1f1;
@@ -103,7 +103,7 @@ button {
   margin: 8px;
   cursor: pointer;
   opacity: 0.9;
-  width: 15%;
+  width: 13%;
 }
 .utube {
   display: flex;
