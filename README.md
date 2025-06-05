@@ -8,6 +8,8 @@ Estimated time spent: **#** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
+<div style="position: relative; padding-bottom: 57.446808510638306%; height: 0;"><iframe src="https://www.loom.com/embed/f65d67651367417eaa282f55d61b60e4?sid=bc0479f9-2fbb-4636-b9cf-a900efb39503" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ### Application Features
 
 #### CORE FEATURES
