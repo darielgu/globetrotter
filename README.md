@@ -1,5 +1,3 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Globetrotter
 
 Submitted by: **NAME**
@@ -7,8 +5,6 @@ Submitted by: **NAME**
 Estimated time spent: **#** hours spent in total
 
 Deployed Application (I deployed the front page using github): [Globetrotter Deployed Site](https://darielgu.github.io/globetrotter/)
-
-<div style="position: relative; padding-bottom: 57.446808510638306%; height: 0;"><iframe src="https://www.loom.com/embed/f65d67651367417eaa282f55d61b60e4?sid=bc0479f9-2fbb-4636-b9cf-a900efb39503" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Application Features
 
@@ -97,9 +93,7 @@ Deployed Application (I deployed the front page using github): [Globetrotter Dep
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<div style="position: relative; padding-bottom: 57.446808510638306%; height: 0;"><iframe src="https://www.loom.com/embed/f65d67651367417eaa282f55d61b60e4?sid=bc0479f9-2fbb-4636-b9cf-a900efb39503" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Reflection
 
@@ -109,11 +103,11 @@ Yes I felt very prepared by my codepath team for this assignment, I have some pr
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
 
-Add your response here
+I will add some more stretch fetaures for my demo but I am submitting like this, finished early
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+First project and everything has gone well, with some previous experience in css and html
 
 ### Open-source libraries used
 
@@ -121,5 +115,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 Shout out Lucia!
