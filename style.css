@@ -65,3 +65,52 @@ a {
   width: 70%;
   border-radius: 10px;
 }
+@media screen and (max-width: 768px) {
+  .body-text {
+    display: none;
+  }
+  .lj-image {
+    padding-top: 15px;
+  }
+  /* basically made it that when, ur viewing on iphone you dont see the huge description because it's unappealing. */
+}
+.form-container {
+  background-color: #ffffff;
+  margin: 80px;
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  align-self: center;
+  display: inline-block;
+  width: 40%;
+  margin: 10px;
+  border: none;
+  background-color: #f1f1f1;
+  border-radius: 4px;
+}
+button {
+  align-self: center;
+  background-color: rgb(60, 151, 60);
+  border: none;
+  border-radius: 3px;
+  margin: 8px;
+  cursor: pointer;
+  opacity: 0.9;
+  width: 15%;
+}
+.utube {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+  height: 30%;
+  width: 30%;
+}

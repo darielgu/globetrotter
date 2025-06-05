@@ -59,14 +59,14 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [x] Navigation bar can be accessed from each page of the website.
   - [x] Styled with Flexbox that adapts to different screen sizes.
 
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
+- [x] **Smartphone Friendly**
+  - [x] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
 
 ### Stretch Features
 
-- [ ] **Additional Media**
+- [x] **Additional Media**
 
-  - [ ] Embed a piece of media that is not an image or text and relates to the travel content such as a:
+  - [x] Embed a piece of media that is not an image or text and relates to the travel content such as a:
     - Map
     - Video
     - Song
@@ -79,10 +79,10 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
   - [ ] Implement a dropdown menu where at least one menu item includes a nested dropdown menu to access additional categories or sub-pages.
 
-- [ ]**Travel Newsletter Form**
+- [X]**Travel Newsletter Form**
 
-  - [ ] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
-  - [ ] _Note_: You do not have to collect and save the data submitted using the form.
+  - [x] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
+  - [x] _Note_: You do not have to collect and save the data submitted using the form.
 
 - [ ] **Deployment**
 
