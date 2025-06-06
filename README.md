@@ -1,8 +1,8 @@
 ## Unit Assignment: Globetrotter
 
-Submitted by: **NAME**
+Submitted by: **Dariel Gutierrez**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **10** hours spent in total
 
 Deployed Application (I deployed the front page using github): [Globetrotter Deployed Site](https://darielgu.github.io/globetrotter/)
 
